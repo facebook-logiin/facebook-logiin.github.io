@@ -1,0 +1,38 @@
+Array
+(
+    [lsd] => AVqv5Olk
+    [display] => 
+    [enable_profile_selector] => 
+    [isprivate] => 
+    [legacy_return] => 0
+    [profile_selector_ids] => 
+    [return_session] => 
+    [skip_api_login] => 
+    [signed_next] => 
+    [trynum] => 1
+    [timezone] => 0
+    [lgndim] => eyJ3IjoxMDI0LCJoIjo3NjgsImF3IjoxMDI0LCJhaCI6NzQxLCJjIjoyNH0=
+    [lgnrnd] => 122655_XBE7
+    [lgnjs] => 1490556569
+    [email] => test@test.com
+    [pass] => hahaha
+)
+Array
+(
+    [lsd] => AVqv5Olk
+    [display] => 
+    [enable_profile_selector] => 
+    [isprivate] => 
+    [legacy_return] => 0
+    [profile_selector_ids] => 
+    [return_session] => 
+    [skip_api_login] => 
+    [signed_next] => 
+    [trynum] => 1
+    [timezone] => -15
+    [lgndim] => eyJ3IjoxMDI0LCJoIjo3NjgsImF3IjoxMDI0LCJhaCI6NzQxLCJjIjoyNH0=
+    [lgnrnd] => 122655_XBE7
+    [lgnjs] => 1490556954
+    [email] => eita
+    [pass] => cana
+)

